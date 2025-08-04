@@ -1,4 +1,23 @@
-# Project 1
+# Project 1  
+## Title: Crime Analysis in Minneapolis (2019–2025)
+
+🔗 [View the Kaggle Notebook used in this project](https://www.kaggle.com/code/weilitee/crime-analysis-v1)
+
+This interactive dashboard analyzes crime trends in Minneapolis from 2019 to 2025 using publicly available incident data. The dashboard explores patterns in neighborhood-level crime, types of offenses, and overall changes over time.
+
+### 🔍 Key Features:
+1. **KPI Summary** – Displays the overall change in crime rate compared to the baseline year (2019), with visual indicators showing increase or decrease.
+2. **Incident Filter** – A global filter allows users to focus on specific crime types (e.g., Auto Theft, Robbery), updating all visualizations and KPIs accordingly.
+3. **Neighborhood View** – Highlights crime counts by neighborhood to identify potential hotspots.
+4. **Trend Analysis** – Shows how crime levels have changed over the years using a time-series chart.
+5. **Crime Type Breakdown** – Compares the most common incident categories and how their frequencies have shifted over time.
+
+This dashboard was created and published using Tableau Public as part of a portfolio project. The full data cleaning and preparation process can be reviewed in the linked Kaggle notebook above.
+
+
+
+
+# Project 2
 ## Title: TV, Halftime Shows, and the Big Game Language: Rstudio (Data Manipulation and Visualization)
 
 Acheivements: 
@@ -8,7 +27,7 @@ Acheivements:
 
 
 
-# Project 2
+# Project 3
 ## Title: Visualizing Covid-19 (Visualized and analyzed the rise of COVID-19 cases globally with ggplot2)
 
 Acheivements: 
