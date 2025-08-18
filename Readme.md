@@ -22,7 +22,7 @@ This dashboard was created and published using Tableau Public as part of a portf
 ## Title: Product Costing & Margin Analysis (Mock Retail Dataset)
 ### Tools: SQL, Tableau
 
-🔗 [View Tableau Dashboard created in this project](https://public.tableau.com/views/CrimeAnalysisV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/ProductCostingMarginAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Tableau Dashboard created in this project](https://public.tableau.com/views/ProductCostingMarginAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This interactive dashboard analyzes product profitability and cost structure using a mock retail dataset. The goal of the project is to identify which product categories and individual SKUs drive profitability, which ones underperform, and how tariff changes could impact overall margins. The dashboard provides financial and pricing insights to support decision-making around pricing strategy, cost control, and product portfolio management.
 
