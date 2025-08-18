@@ -1,7 +1,7 @@
 # Project 1  
 ## Title: Crime Analysis in Minneapolis (2019–2025)
 
-🔗 [View the Kaggle Notebook used in this project](https://www.kaggle.com/code/weilitee/crime-analysis-v1)
+🔗 [View the Kaggle Notebook used in this project](https://www.kaggle.com/code/weilitee/crime-analysis-v1)  
 🔗 [View Tableau Dashboard created in this project]([https://www.kaggle.com/code/weilitee/crime-analysis-v1](https://public.tableau.com/views/CrimeAnalysisV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
