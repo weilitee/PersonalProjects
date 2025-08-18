@@ -18,9 +18,25 @@ This interactive dashboard analyzes crime trends in Minneapolis from 2019 to 202
 This dashboard was created and published using Tableau Public as part of a portfolio project. The full data cleaning and preparation process can be reviewed in the linked Kaggle notebook above.
 
 
-
-
 # Project 2
+## Title: Product Costing & Margin Analysis (Mock Retail Dataset)
+### Tools: SQL, Tableau
+
+🔗 [View Tableau Dashboard created in this project](https://public.tableau.com/views/CrimeAnalysisV1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/ProductCostingMarginAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This interactive dashboard analyzes product profitability and cost structure using a mock retail dataset. The goal of the project is to identify which product categories and individual SKUs drive profitability, which ones underperform, and how tariff changes could impact overall margins. The dashboard provides financial and pricing insights to support decision-making around pricing strategy, cost control, and product portfolio management.
+
+### 🔍 Key Features:
+
+1. **KPI Summary** – Displays overall margin, total revenue, and profit with clear indicators for quick performance assessment.
+2. **Category Analysis** – Compares margins across product categories to highlight the most profitable areas.
+3. **Worst-Performing Products** – Identifies the bottom 15 products by profit margin, allowing focus on underperforming SKUs.
+4. **Scenario Analysis: Tariff Impact** – Models how margins shift when tariffs increase, with an adjustable slider for testing different scenarios.
+5. **Interactive Filtering** – Enables filtering by product category and dynamic parameter adjustment, updating all KPIs and visualizations in real time.
+
+This dashboard was created and published using Tableau Public as part of a portfolio project. It demonstrates skills in KPI design, profitability analysis, scenario modeling, and professional dashboard development.
+
+# Project 3
 ## Title: TV, Halftime Shows, and the Big Game Language: Rstudio (Data Manipulation and Visualization)
 
 Acheivements: 
@@ -30,7 +46,7 @@ Acheivements:
 
 
 
-# Project 3
+# Project 4
 ## Title: Visualizing Covid-19 (Visualized and analyzed the rise of COVID-19 cases globally with ggplot2)
 
 Acheivements: 
