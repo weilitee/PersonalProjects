@@ -34,7 +34,7 @@ The primary goal was to determine if factors like "Winning Streaks" or "Rivalry 
     ```
 
 ## 📈 Visualizations
-![Home vs Away Attendance Trend](C:\Users\weili\OneDrive\Documents\PersonalProjects\Sports Data Analysis\HomeVsAwayGraph.png)
+![Home vs Away Attendance Trend](HomeVsAwayGraph.png)
 
 ---
 *Data sourced from verified NFL 2024-2025 schedule and attendance reports.*
