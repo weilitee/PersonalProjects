@@ -1,6 +1,6 @@
 # Project 1 
 ## Title: Minnesota Vikings Attendance Prediction Model
-### Tools: Python, Pandas, Scikit-Learn
+### Tools: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 A data science project analyzing the factors driving home attendance for the Minnesota Vikings during the 2024 NFL season. This project utilizes **Python**, **Pandas**, and **Scikit-Learn** to build a predictive regression model that forecasts crowd size based on variables like opponent quality, weather, and game time.
 
@@ -12,17 +12,11 @@ The primary goal was to determine if factors like "Winning Streaks" or "Rivalry 
 * **Venue Matters Most:** The single biggest predictor of attendance variance was the venue itself (e.g., the drop in capacity for the London International Series game vs. U.S. Bank Stadium).
 * **Rivalry Games:** Games against the Green Bay Packers or Chicago Bears consistently hit the stadium's maximum "Standing Room Only" capacity.
 
-## 🛠️ Technologies Used
-* **Python 3.11**
-* **Pandas & NumPy:** Data cleaning and manipulation.
-* **Matplotlib & Seaborn:** Data visualization and trend analysis.
-* **Scikit-Learn:** Building the Linear Regression machine learning model.
-
 
 ## 🚀 How to Run This Project
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/vikings-attendance-analysis.git](https://github.com/YOUR_USERNAME/vikings-attendance-analysis.git)
+    git clone [https://github.com/weilitee/vikings-attendance-analysis.git](https://github.com/weilitee/vikings-attendance-analysis.git)
     ```
 2.  **Install required packages:**
     ```bash
