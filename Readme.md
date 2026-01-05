@@ -28,7 +28,7 @@ The primary goal was to determine if factors like "Winning Streaks" or "Rivalry 
     ```
 
 ## 📈 Visualizations
-![Home vs Away Attendance Trend](HomeVsAwayGraph.png)
+![Home vs Away Attendance Trend](NFL_Attendance_Analysis/HomeVsAwayGraph.png)
 
 ---
 *Data sourced from verified NFL 2024-2025 schedule and attendance reports.*
@@ -36,7 +36,7 @@ The primary goal was to determine if factors like "Winning Streaks" or "Rivalry 
 
 
 
-# Project 1  
+# Project 2  
 ## Title: Crime Analysis in Minneapolis (2019–2025)
 ### Tools: SQL, R, Tableau
 
@@ -56,7 +56,7 @@ This interactive dashboard analyzes crime trends in Minneapolis from 2019 to 202
 This dashboard was created and published using Tableau Public as part of a portfolio project. The full data cleaning and preparation process can be reviewed in the linked Kaggle notebook above.
 
 
-# Project 2
+# Project 3
 ## Title: Product Costing & Margin Analysis (Mock Retail Dataset)
 ### Tools: SQL, Tableau
 
@@ -74,7 +74,7 @@ This interactive dashboard analyzes product profitability and cost structure usi
 
 This dashboard was created and published using Tableau Public as part of a portfolio project. It demonstrates skills in KPI design, profitability analysis, scenario modeling, and professional dashboard development.
 
-# Project 3
+# Project 4
 ## Title: TV, Halftime Shows, and the Big Game Language: Rstudio (Data Manipulation and Visualization)
 
 Acheivements: 
@@ -84,7 +84,7 @@ Acheivements:
 
 
 
-# Project 4
+# Project 5
 ## Title: Visualizing Covid-19 (Visualized and analyzed the rise of COVID-19 cases globally with ggplot2)
 
 Acheivements: 
