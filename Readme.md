@@ -1,3 +1,48 @@
+# Project 1 
+## Title: Minnesota Vikings Attendance Prediction Model
+### Tools: Python, Pandas, Scikit-Learn
+
+A data science project analyzing the factors driving home attendance for the Minnesota Vikings during the 2024 NFL season. This project utilizes **Python**, **Pandas**, and **Scikit-Learn** to build a predictive regression model that forecasts crowd size based on variables like opponent quality, weather, and game time.
+
+## 📊 Project Overview
+The primary goal was to determine if factors like "Winning Streaks" or "Rivalry Games" significantly impact attendance, or if the stadium sells out regardless of context. 
+
+**Key Insights:**
+* **Attendance is Inelastic:** Home games at U.S. Bank Stadium fluctuate by less than 0.5%, proving the stadium is effectively "sold out" every week regardless of the opponent.
+* **Venue Matters Most:** The single biggest predictor of attendance variance was the venue itself (e.g., the drop in capacity for the London International Series game vs. U.S. Bank Stadium).
+* **Rivalry Games:** Games against the Green Bay Packers or Chicago Bears consistently hit the stadium's maximum "Standing Room Only" capacity.
+
+## 🛠️ Technologies Used
+* **Python 3.11**
+* **Pandas & NumPy:** Data cleaning and manipulation.
+* **Matplotlib & Seaborn:** Data visualization and trend analysis.
+* **Scikit-Learn:** Building the Linear Regression machine learning model.
+
+
+## 🚀 How to Run This Project
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/vikings-attendance-analysis.git](https://github.com/YOUR_USERNAME/vikings-attendance-analysis.git)
+    ```
+2.  **Install required packages:**
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+    ```
+3.  **Open the Notebook:**
+    ```bash
+    jupyter notebook vikings_attendance24_analysis.ipynb
+    ```
+
+## 📈 Visualizations
+*(You can upload the chart images we created here to make your README pop)*
+![Home vs Away Attendance Trend]("C:\Users\weili\OneDrive\Documents\PersonalProjects\Sports Data Analysis\HomeVsAwayGraph.png")
+
+---
+*Data sourced from verified NFL 2024-2025 schedule and attendance reports.*
+
+
+
+
 # Project 1  
 ## Title: Crime Analysis in Minneapolis (2019–2025)
 ### Tools: SQL, R, Tableau
